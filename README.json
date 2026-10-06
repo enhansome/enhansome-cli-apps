@@ -326,8 +326,8 @@
                 "id": 1093624725,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:58:12Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-06T10:00:21Z",
+                "open_issues": 39,
                 "owner": "LargeModGames",
                 "repo": "spotatui",
                 "stars": 1407,
@@ -730,7 +730,7 @@
                 "open_issues": 2684,
                 "owner": "yt-dlp",
                 "repo": "yt-dlp",
-                "stars": 195864,
+                "stars": 195878,
                 "topics": [
                   "cli",
                   "downloader",
@@ -759,7 +759,7 @@
                 "open_issues": 4126,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141439,
+                "stars": 141440,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:54:27.274Z"
@@ -780,7 +780,7 @@
                 "open_issues": 68,
                 "owner": "streamlink",
                 "repo": "streamlink",
-                "stars": 11828,
+                "stars": 11829,
                 "topics": [
                   "cli",
                   "livestream",
@@ -1233,7 +1233,7 @@
                 "open_issues": 52,
                 "owner": "chojs23",
                 "repo": "concord",
-                "stars": 1591,
+                "stars": 1590,
                 "topics": [
                   "chat-client",
                   "cli",
@@ -1289,7 +1289,7 @@
                 "open_issues": 5,
                 "owner": "tlgrcli",
                 "repo": "tlgr",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1334,7 +1334,7 @@
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36147,
+            "stars": 36148,
             "topics": []
           },
           "first_seen": "2026-08-28T14:54:27.274Z"
@@ -1416,11 +1416,11 @@
             "id": 1281328046,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:34:07Z",
+            "last_commit": "2026-10-06T10:36:03Z",
             "open_issues": 34,
             "owner": "persiyanov",
             "repo": "herdr-reviewr",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -1806,7 +1806,7 @@
             "id": 1188051251,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T12:12:40Z",
+            "last_commit": "2026-10-06T09:58:40Z",
             "open_issues": 0,
             "owner": "ota-run",
             "repo": "ota",
@@ -1868,10 +1868,10 @@
                 "language": "Vim Script",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T09:22:44Z",
-                "open_issues": 1941,
+                "open_issues": 1942,
                 "owner": "neovim",
                 "repo": "neovim",
-                "stars": 102863,
+                "stars": 102864,
                 "topics": [
                   "api",
                   "c",
@@ -1900,7 +1900,7 @@
                 "open_issues": 1713,
                 "owner": "helix-editor",
                 "repo": "helix",
-                "stars": 46483,
+                "stars": 46484,
                 "topics": [
                   "kakoune",
                   "rust",
@@ -2204,7 +2204,7 @@
                 "open_issues": 167,
                 "owner": "localtunnel",
                 "repo": "localtunnel",
-                "stars": 22490,
+                "stars": 22489,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:54:27.274Z"
@@ -2935,8 +2935,8 @@
                 "id": 236195365,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T07:40:47Z",
-                "open_issues": 124,
+                "last_commit": "2026-10-06T10:19:27Z",
+                "open_issues": 125,
                 "owner": "updatecli",
                 "repo": "updatecli",
                 "stars": 995,
@@ -3206,7 +3206,7 @@
                 "open_issues": 303,
                 "owner": "jesseduffield",
                 "repo": "lazydocker",
-                "stars": 53052,
+                "stars": 53053,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:54:27.274Z"
@@ -4601,7 +4601,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-05T20:52:06Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1399,
@@ -5891,7 +5891,7 @@
                 "open_issues": 16,
                 "owner": "xxczaki",
                 "repo": "cash-cli",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "cash-cli",
                   "cli",
@@ -6306,7 +6306,7 @@
             "open_issues": 1180,
             "owner": "aria2",
             "repo": "aria2",
-            "stars": 42964,
+            "stars": 42965,
             "topics": [
               "bittorrent",
               "cpp11",
@@ -6621,7 +6621,7 @@
                 "open_issues": 6,
                 "owner": "tw93",
                 "repo": "Mole",
-                "stars": 69394,
+                "stars": 69395,
                 "topics": [
                   "analyzer",
                   "appcleaner",
@@ -7332,7 +7332,7 @@
                 "open_issues": 1056,
                 "owner": "starship",
                 "repo": "starship",
-                "stars": 60167,
+                "stars": 60168,
                 "topics": [
                   "bash",
                   "fish",
@@ -8701,7 +8701,7 @@
                 "open_issues": 333,
                 "owner": "chubin",
                 "repo": "wttr.in",
-                "stars": 30637,
+                "stars": 30638,
                 "topics": [
                   "ascii-art",
                   "curl",
@@ -9114,7 +9114,7 @@
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "speed-test",
-                "stars": 3950,
+                "stars": 3949,
                 "topics": [
                   "cli-app",
                   "command-line-tool",
@@ -9413,7 +9413,7 @@
             "open_issues": 461,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97885,
+            "stars": 97886,
             "topics": [
               "python",
               "shell"
@@ -9437,7 +9437,7 @@
             "open_issues": 258,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63824,
+            "stars": 63825,
             "topics": [
               "android",
               "bsd",
@@ -9752,7 +9752,7 @@
                 "open_issues": 426,
                 "owner": "jqlang",
                 "repo": "jq",
-                "stars": 35751,
+                "stars": 35750,
                 "topics": [
                   "jq"
                 ]
@@ -10338,7 +10338,7 @@
                 "open_issues": 64,
                 "owner": "sxyazi",
                 "repo": "yazi",
-                "stars": 42638,
+                "stars": 42641,
                 "topics": [
                   "android",
                   "asyncio",
@@ -10827,7 +10827,7 @@
                 "open_issues": 14,
                 "owner": "bootandy",
                 "repo": "dust",
-                "stars": 12474,
+                "stars": 12475,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:54:27.274Z"
@@ -10960,7 +10960,7 @@
                 "open_issues": 543,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60687,
+                "stars": 60688,
                 "topics": [
                   "cli",
                   "command-line",
@@ -10990,7 +10990,7 @@
                 "open_issues": 29,
                 "owner": "boyter",
                 "repo": "scc",
-                "stars": 8796,
+                "stars": 8797,
                 "topics": [
                   "cli",
                   "cloc",
@@ -11263,7 +11263,7 @@
                 "open_issues": 1323,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 60132,
+                "stars": 60133,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -11856,7 +11856,7 @@
                 "open_issues": 144,
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 39900,
+                "stars": 39903,
                 "topics": [
                   "autojump",
                   "bash",
@@ -12168,7 +12168,7 @@
                 "open_issues": 202,
                 "owner": "BurntSushi",
                 "repo": "ripgrep",
-                "stars": 68873,
+                "stars": 68876,
                 "topics": [
                   "cli",
                   "command-line",
@@ -12227,11 +12227,11 @@
                 "id": 509566212,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-05T15:56:22Z",
+                "last_commit": "2026-10-06T10:46:51Z",
                 "open_issues": 64,
                 "owner": "ast-grep",
                 "repo": "ast-grep",
-                "stars": 16124,
+                "stars": 16125,
                 "topics": [
                   "ast",
                   "babel",
@@ -12665,7 +12665,7 @@
                 "open_issues": 1044,
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 82918,
+                "stars": 82921,
                 "topics": [
                   "cli",
                   "git",
@@ -12690,7 +12690,7 @@
                 "open_issues": 346,
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22548,
+                "stars": 22547,
                 "topics": [
                   "async",
                   "bash",
@@ -14642,11 +14642,11 @@
                 "id": 975734319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:39:25Z",
-                "open_issues": 6228,
+                "last_commit": "2026-10-06T10:36:13Z",
+                "open_issues": 6230,
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 211941,
+                "stars": 211945,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:54:27.274Z"
@@ -14700,7 +14700,7 @@
                 "open_issues": 13,
                 "owner": "yvgude",
                 "repo": "lean-ctx",
-                "stars": 3864,
+                "stars": 3865,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -14779,8 +14779,8 @@
                 "id": 1029049168,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T09:47:30Z",
-                "open_issues": 167,
+                "last_commit": "2026-10-06T09:47:59Z",
+                "open_issues": 172,
                 "owner": "Nano-Collective",
                 "repo": "nanocoder",
                 "stars": 2498,
@@ -14814,7 +14814,7 @@
                 "open_issues": 12,
                 "owner": "actionbook",
                 "repo": "actionbook",
-                "stars": 1609,
+                "stars": 1608,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -14840,7 +14840,7 @@
                 "open_issues": 16,
                 "owner": "asheshgoplani",
                 "repo": "agent-deck",
-                "stars": 1014,
+                "stars": 1016,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -14876,7 +14876,7 @@
                 "id": 1129585228,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:36:46Z",
+                "last_commit": "2026-10-06T09:59:44Z",
                 "open_issues": 32,
                 "owner": "coipond",
                 "repo": "coi",
@@ -15457,7 +15457,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67019,
+            "stars": 67020,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15485,7 +15485,7 @@
             "open_issues": 189,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37726,
+            "stars": 37728,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15661,7 +15661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:47:22.057Z",
+    "last_updated": "2026-10-06T10:54:36.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
